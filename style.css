@@ -1,0 +1,42 @@
+body {
+    margin: 10px;
+    padding: 10px;
+}
+
+.container {
+    margin: 10px;
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+}
+
+.search {
+    display: block;
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: 2px solid darkcyan;
+    color: darkcyan;
+    padding: 5px;
+    margin: 10px;
+}
+
+.plus {
+    color: white;
+    border-radius: 50%;
+    background-color: turquoise;
+    border: 2px solid turquoise;
+    margin-left: 10px;
+    height: 35px;
+    width: 35px;
+}
+
+.account {
+    border: 3px solid black;
+    box-shadow: 5px 5px 1px black;
+    background-color: blue;
+    color: white;
+    display: block;
+    padding: 10px 30px;
+    margin: 10px;
+}
